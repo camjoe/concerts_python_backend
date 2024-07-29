@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env_concert_culture
+
+# mkdocs documentation
+/site
+
+dev_config.py
+
+# deprecated
+/concerts/deprecated
